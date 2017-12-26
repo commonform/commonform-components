@@ -5,6 +5,7 @@
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "commonform/commonform-component",
   "dependencies": {
+    "commonform-hash": "^0.5.0",
     "contiguous": "^1.0.2",
     "is-array": "^1.0.1",
     "is-object": "^1.0.1",
