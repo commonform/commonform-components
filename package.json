@@ -1,0 +1,19 @@
+{
+  "name": "commonform-component",
+  "version": "0.0.0",
+  "description": "",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "repository": "commonform/commonform-component",
+  "dependencies": {
+    "contiguous": "^1.0.2",
+    "is-array": "^1.0.1",
+    "is-object": "^1.0.1",
+    "is-string": "^1.0.4"
+  },
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "scripts": {
+    "test": "tape test/*.test.js"
+  }
+}
